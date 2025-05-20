@@ -1,4 +1,4 @@
-# 🤖 Robot Movement and Vision System 👁️
+# 🤖 4-DOF Inspection Robot 👁️
 
 ---
 
